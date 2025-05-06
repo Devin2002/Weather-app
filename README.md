@@ -28,8 +28,12 @@
 
 <p>
   <!-- Replace these links with your actual screenshots -->
-  <img src="https://via.placeholder.com/250x500.png?text=Home+Screen" width="250" />
-  <img src="https://via.placeholder.com/250x500.png?text=Search+City" width="250" />
+  <img src="https://github.com/Devin2002/Weather-app/blob/cadaa0913b95a99042acdeae7178d88da93c6806/Images/IMG-20250415-WA0001.jpg" width="250" />
+  <img src="https://github.com/Devin2002/Weather-app/blob/cadaa0913b95a99042acdeae7178d88da93c6806/Images/IMG-20250415-WA0002.jpg" width="250" />
+  <img src="https://github.com/Devin2002/Weather-app/blob/cadaa0913b95a99042acdeae7178d88da93c6806/Images/IMG-20250415-WA0003.jpg" width="250" />
+  <img src="https://github.com/Devin2002/Weather-app/blob/cadaa0913b95a99042acdeae7178d88da93c6806/Images/IMG-20250415-WA0004.jpg" width="250" />
+  <img src="https://github.com/Devin2002/Weather-app/blob/cadaa0913b95a99042acdeae7178d88da93c6806/Images/IMG-20250415-WA0005.jpg" width="250" />
+
 </p>
 
 ---
